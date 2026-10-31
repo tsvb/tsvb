@@ -1,4 +1,4 @@
-### Hi, I'm Tim VanBenschoten 👋
+### Hi, I'm Tim VanBenschoten. Pronunciation quiz to follow.
 
 By day I'm an IT consultant in healthcare, working on infrastructure, security, and business continuity. The rest of the time I'm with my son, out walking the dog with a camera, or building small native Mac apps. Each one exists to fix something on my own machine.
 
